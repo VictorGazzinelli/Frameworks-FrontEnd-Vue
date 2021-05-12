@@ -1,0 +1,36 @@
+<template>
+	<section class="section-body">
+    <div>
+    <p class="section-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent consequat sodales neque, a euismod neque ultricies et. Phasellus mauris sem, semper vitae mollis sit amet, aliquam sit amet orci. Sed id gravida elit, nec fringilla urna. Cras sit amet dapibus tellus. Integer id nisi erat. Pellentesque pulvinar vel erat sit amet molestie. Quisque id faucibus mi, eget ultricies felis. Etiam id dolor euismod, sodales urna non, consectetur eros. Etiam et nulla leo. Nam lorem arcu, tincidunt non posuere non, convallis sit amet augue. Donec blandit et nunc et congue. Donec ipsum eros, dignissim ac fermentum convallis, finibus non urna. Integer at erat et risus pellentesque vestibulum quis quis metus.</p>
+    <p class="section-paragraph">Cras diam mauris, vestibulum quis elit eu, fermentum semper tellus. Suspendisse auctor in ligula in ultrices. Proin justo tellus, egestas id aliquet vitae, lobortis id dui. Etiam vestibulum dignissim ante, et maximus lorem dapibus pellentesque. Aliquam interdum, mauris a tempor tristique, neque orci porttitor ex, id lobortis odio tortor non dolor. Maecenas placerat vel massa id lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Praesent eget eros blandit, bibendum mauris eget, malesuada enim. Cras elit dui, pellentesque eget dapibus eu, facilisis eu odio. Maecenas aliquet euismod pharetra. Suspendisse sodales commodo mi nec faucibus. Mauris convallis rhoncus libero, et commodo libero viverra id.</p>
+    <p class="section-paragraph">Proin iaculis tortor a dui efficitur fermentum. Quisque ac massa ut nisi iaculis fermentum. Donec lobortis tristique tempor. Nunc nec ullamcorper est, sed porta justo. Aenean sit amet gravida ligula. Morbi mi massa, rutrum id augue nec, sodales ornare ipsum. Etiam ultrices augue varius semper ornare. Aliquam non justo in dolor commodo eleifend eget vel sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.t</p>
+    <p class="section-paragraph">Nam nec ligula et augue maximus fringilla. Integer efficitur et neque et varius. Nam iaculis est ante, vel malesuada felis faucibus et. Nam sapien justo, dignissim in tempus sit amet, dictum ut dui. Aenean dignissim bibendum ornare. Donec dui libero, varius a posuere nec, volutpat id mi. Integer consequat odio ac nibh eleifend feugiat. Nam venenatis vulputate dolor, et congue nisl sollicitudin a. Suspendisse consequat est risus. Integer varius dui vel nunc bibendum, sed euismod diam molestie. Quisque ut ultricies urna, eget faucibus massa. Duis bibendum scelerisque massa eu volutpat. Donec mauris ligula, auctor quis malesuada in, congue quis nibh. Vivamus condimentum dolor velit, vel ornare erat pharetra a. Nam ullamcorper est nulla, quis auctor ante consectetur non. Proin dapibus, augue id sagittis pharetra, lectus ex mollis nunc, eu hendrerit sapien nunc fermentum augue.</p>
+    <p class="section-paragraph">Nam fringilla dui nunc, sed rutrum urna suscipit bibendum. Etiam sagittis, lectus id ullamcorper efficitur, magna dui finibus arcu, nec pellentesque tortor enim tincidunt libero. In hac habitasse platea dictumst. Suspendisse potenti. Etiam a tortor cursus, iaculis massa sit amet, finibus lectus. Morbi nec elit eu lacus fringilla sagittis ut sit amet felis. Nam varius accumsan dolor, sit amet tempor ante ornare non. Etiam quis ornare tortor. Ut tempor purus vel elit sollicitudin, quis dapibus ligula tincidunt. Nam diam nunc, imperdiet nec varius id, ullamcorper gravida orci. Duis dapibus molestie maximus.</p>
+    <p class="section-paragraph">Cras diam mauris, vestibulum quis elit eu, fermentum semper tellus. Suspendisse auctor in ligula in ultrices. Proin justo tellus, egestas id aliquet vitae, lobortis id dui. Etiam vestibulum dignissim ante, et maximus lorem dapibus pellentesque. Aliquam interdum, mauris a tempor tristique, neque orci porttitor ex, id lobortis odio tortor non dolor. Maecenas placerat vel massa id lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Praesent eget eros blandit, bibendum mauris eget, malesuada enim. Cras elit dui, pellentesque eget dapibus eu, facilisis eu odio. Maecenas aliquet euismod pharetra. Suspendisse sodales commodo mi nec faucibus. Mauris convallis rhoncus libero, et commodo libero viverra id.</p>
+    <p class="section-paragraph">Cras diam mauris, vestibulum quis elit eu, fermentum semper tellus. Suspendisse auctor in ligula in ultrices. Proin justo tellus, egestas id aliquet vitae, lobortis id dui. Etiam vestibulum dignissim ante, et maximus lorem dapibus pellentesque. Aliquam interdum, mauris a tempor tristique, neque orci porttitor ex, id lobortis odio tortor non dolor. Maecenas placerat vel massa id lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Praesent eget eros blandit, bibendum mauris eget, malesuada enim. Cras elit dui, pellentesque eget dapibus eu, facilisis eu odio. Maecenas aliquet euismod pharetra. Suspendisse sodales commodo mi nec faucibus. Mauris convallis rhoncus libero, et commodo libero viverra id.</p>
+    <p class="section-paragraph">Nam nec ligula et augue maximus fringilla. Integer efficitur et neque et varius. Nam iaculis est ante, vel malesuada felis faucibus et. Nam sapien justo, dignissim in tempus sit amet, dictum ut dui. Aenean dignissim bibendum ornare. Donec dui libero, varius a posuere nec, volutpat id mi. Integer consequat odio ac nibh eleifend feugiat. Nam venenatis vulputate dolor, et congue nisl sollicitudin a. Suspendisse consequat est risus. Integer varius dui vel nunc bibendum, sed euismod diam molestie. Quisque ut ultricies urna, eget faucibus massa. Duis bibendum scelerisque massa eu volutpat. Donec mauris ligula, auctor quis malesuada in, congue quis nibh. Vivamus condimentum dolor velit, vel ornare erat pharetra a. Nam ullamcorper est nulla, quis auctor ante consectetur non. Proin dapibus, augue id sagittis pharetra, lectus ex mollis nunc, eu hendrerit sapien nunc fermentum augue.</p>
+    <p class="section-paragraph">Cras diam mauris, vestibulum quis elit eu, fermentum semper tellus. Suspendisse auctor in ligula in ultrices. Proin justo tellus, egestas id aliquet vitae, lobortis id dui. Etiam vestibulum dignissim ante, et maximus lorem dapibus pellentesque. Aliquam interdum, mauris a tempor tristique, neque orci porttitor ex, id lobortis odio tortor non dolor. Maecenas placerat vel massa id lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Praesent eget eros blandit, bibendum mauris eget, malesuada enim. Cras elit dui, pellentesque eget dapibus eu, facilisis eu odio. Maecenas aliquet euismod pharetra. Suspendisse sodales commodo mi nec faucibus. Mauris convallis rhoncus libero, et commodo libero viverra id.</p>
+    </div>
+  </section>
+</template>
+
+<script>
+	export default {
+		name: 'Article',
+	};
+</script>
+
+<style>
+	.section-body {
+		background: #222222;
+    color: #d4d4d4;
+    display : inline-block;
+	}
+  .section-paragraph {
+    text-align: left;
+    font-size: 18px;
+  }
+  .section-paragraph:first-child {
+    margin-top: 0;
+  }
+</style>
